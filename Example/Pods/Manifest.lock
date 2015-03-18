@@ -1,0 +1,14 @@
+PODS:
+  - SWPageViewController (0.1.0)
+
+DEPENDENCIES:
+  - SWPageViewController (from `../`)
+
+EXTERNAL SOURCES:
+  SWPageViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SWPageViewController: 3a8fdd73815a4b22204c51fbabe72c2dca1c0dc0
+
+COCOAPODS: 0.36.0.beta.2
