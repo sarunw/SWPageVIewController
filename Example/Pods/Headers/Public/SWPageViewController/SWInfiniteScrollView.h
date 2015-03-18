@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/SWInfiniteScrollView.h
